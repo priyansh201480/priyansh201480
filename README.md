@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyansh Agarwal</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-<img align ="right" alt ="coding" width ="400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh201480&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh201480" /> </p>
 
 - 📫 How to reach me **agarwal7priyansh@gmail.com**
@@ -9,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyansh-agarwal-a9459b245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyansh-agarwal-a9459b245" height="30" width="40" /></a>
+<a href="https://instagram.com/agarwal7priyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agarwal7priyansh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/201480priyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="201480priyansh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/priyansh201480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyansh201480" height="30" width="40" /></a>
 </p>
